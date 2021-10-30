@@ -1,5 +1,5 @@
 # M64js
-Welcome, to the full SM64 JavaScript port!
+Welcome, to the full SM64 JavaScript port! <br>
 With full saving capabilites and HD textures, you'll have a blast!
 
 # Controls:
