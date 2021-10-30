@@ -3,6 +3,7 @@ Welcome, to the full SM64 JavaScript port!
 With full saving capabilites and HD textures, you'll have a blast!
 
 #Controls:
+
      <ul>
           <li>Movement: Arrow Keys</li>
           <li>A: X</li>
